@@ -1,0 +1,21 @@
+/* for socialmedia */
+.float-lg-end a{
+  margin-left: 5px !important;
+}
+/* for socialmedia */ 
+.ant-pagination-options-size-changer{
+  display: none !important;
+}
+.limit{
+  float: left;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  text-align: center;
+  /* font-size: large; */
+  border: 2px solid #d9d9d9;
+  border-radius: 3px;
+  height: 25px;
+  cursor: pointer;
+}
+.limit:hover{
+  border: 2px solid #40a9ff;
+}

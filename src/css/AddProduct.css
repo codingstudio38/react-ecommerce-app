@@ -1,0 +1,15 @@
+
+
+.form-group{
+    text-align: left;
+}
+.form-group input,textarea{
+    margin-bottom: 5px;
+    border-radius: 1px !important; 
+}
+.error{
+    border: 2px solid red !important;
+}
+.seccess{
+     border: 2px solid rgb(6, 165, 64) !important;
+}
